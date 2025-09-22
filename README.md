@@ -79,8 +79,4 @@ Dashboard comparing obesity and diabetes prevalence in highly developed countrie
 
 ---
 
-## 💡 **Soft Skills:** Data Storytelling · Insight Communication · Dashboard Design
-
----
-
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/joanna-rasek-9315a0382/)
