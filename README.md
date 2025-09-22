@@ -7,6 +7,11 @@ These projects reflect my growing expertise in **data visualization, storytellin
 
 ---
 
+## 🧰 Tools & Technologies
+Google Looker Studio · Google Sheets · Excel · Python · Pandas · yFinance · Data Visualization · Storytelling with Data
+
+---
+
 ## 🌍 Featured Projects
 
 ### 1️⃣ Global PM₂.₅ Pollution Dashboard (2010–2021)
@@ -26,7 +31,6 @@ Designed for policymakers and health researchers to quickly identify hotspots an
 - Asthma prevalence highest in Australia & Canada despite lower absolute PM₂.₅  
 
 [🔗 View Dashboard](https://lookerstudio.google.com/reporting/e6885f12-6658-48f3-850d-7a2985928843)
-![Alt text]()
 
 ---
 
