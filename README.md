@@ -9,6 +9,7 @@ These projects reflect my growing expertise in **data visualization, storytellin
 
 ## 🧰 Tools & Technologies
 Google Looker Studio · Google Sheets · Excel · Python · Pandas · yFinance · Data Visualization · Storytelling with Data
+**Soft Skills:** Data Storytelling · Insight Communication · Dashboard Design
 
 ---
 
