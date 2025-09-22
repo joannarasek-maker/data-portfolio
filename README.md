@@ -7,10 +7,8 @@ These projects reflect my growing expertise in **data visualization, storytellin
 
 ---
 
-## 🧰 Tools & Technologies
+## 🛠 Tools & Technologies
 Google Looker Studio · Google Sheets · Excel · Python · Pandas · yFinance · Data Visualization · Storytelling with Data
-
-**Soft Skills:** Data Storytelling · Insight Communication · Dashboard Design
 
 ---
 
@@ -81,8 +79,7 @@ Dashboard comparing obesity and diabetes prevalence in highly developed countrie
 
 ---
 
-## 🛠 Tools & Technologies
-Google Looker Studio · Google Sheets · Excel · Python · Pandas · yFinance · Data Visualization · Storytelling with Data
+## 💡 **Soft Skills:** Data Storytelling · Insight Communication · Dashboard Design
 
 ---
 
