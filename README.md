@@ -27,7 +27,6 @@ Designed for policymakers and health researchers to quickly identify hotspots an
 
 [🔗 View Dashboard](https://lookerstudio.google.com/reporting/e6885f12-6658-48f3-850d-7a2985928843)
 ![Alt text]()
----
 
 ### 2️⃣ Global CO₂ Emissions Dashboard (1900–2023)
 **Description:**  
