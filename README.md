@@ -15,6 +15,7 @@ Google Looker Studio · Google Sheets · Excel · Python · Pandas · yFinance �
 ## 🌍 Featured Projects
 
 ### 1️⃣ Global PM₂.₅ Pollution Dashboard (2010–2021)
+
 **Description:**  
 An interactive dashboard highlighting global PM₂.₅ pollution trends and their impact on public health.  
 Designed for policymakers and health researchers to quickly identify hotspots and related health risks.  
@@ -35,6 +36,7 @@ Designed for policymakers and health researchers to quickly identify hotspots an
 ---
 
 ### 2️⃣ Global CO₂ Emissions Dashboard (1900–2023)
+
 **Description:**  
 Interactive dashboard visualizing **long-term global CO₂ emissions** and per-capita trends.  
 Focus on understanding historical patterns and recent energy transition progress.
@@ -54,20 +56,8 @@ Focus on understanding historical patterns and recent energy transition progress
 
 ---
 
-### 3️⃣ Tourism Dashboard: Impact of COVID-19 (2014–2020)
-**Description:**  
-Analysis of global tourism trends before and after the pandemic, showing percentage change and impact on tourism-dependent economies.  
+### 3️⃣ Global Health Dashboard: Obesity & Diabetes Trends (2011–2021)
 
-**Key Insights:**  
-- 🌍 Global tourism fell by 72% in 2020 compared to 2019  
-- Tourism-dependent economies were most vulnerable  
-- Missing data countries → decline still at −69% globally  
-
-[🔗 View Dashboard](https://lookerstudio.google.com/reporting/3144a9fd-cb9a-4856-84b7-4a5843be5a40)
-
----
-
-### 4️⃣ Global Health Dashboard: Obesity & Diabetes Trends (2011–2021)
 **Description:**  
 Dashboard comparing obesity and diabetes prevalence in highly developed countries.  
 
@@ -76,6 +66,24 @@ Dashboard comparing obesity and diabetes prevalence in highly developed countrie
 - Diabetes prevalence varies greatly between countries, lowest in France & UK  
 
 [🔗 View Dashboard](https://lookerstudio.google.com/reporting/2874d947-47e9-4559-a2b9-54c913e3fa2f)
+
+---
+
+### 4️⃣ Hitachi Printer System 2.0 – Operator Training Video
+
+**Description:**  
+Training video for production-line operators on the new PLC + Factory+ integrated Hitachi printer system at the CertainTeed (Saint-Gobain) plant in Claremont, created after migration from the legacy `cij_Connect` application.
+
+**Video:**  
+▶ [Watch the training video on YouTube](https://youtu.be/JKVVy5bEteY)
+
+**What it shows:**  
+- step-by-step operator workflow in the new system  
+- how to load and verify jobs coming from Factory+  
+- key alarms and good operating practices to reduce errors and downtime  
+
+**Role:** Process Automation Engineer (freelance project)  
+**Tools:** Google NotebookLM, Canva, Google Drive, YouTube Studio
 
 ---
 
