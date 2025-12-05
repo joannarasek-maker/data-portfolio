@@ -87,4 +87,29 @@ Training video for production-line operators on the new PLC + Factory+ integrate
 
 ---
 
+### 5️⃣ Benefits of Fitness – Educational Mini-Campaign for Anytime Fitness
+
+**Description:**  
+Educational mini-campaign for Anytime Fitness Huntersville explaining the key benefits of regular exercise to beginners and returning members. The project combines a short explainer video, an in-club poster and a simple slide deck for use on screens or in workshops.
+
+**Video:**  
+▶ [Benefits of Movement for Your Health – Anytime Fitness Huntersville](https://www.youtube.com/watch?v=p7LzTmH17Uo)
+
+**Materials (downloads):**
+- [In-club poster (PNG)](https://drive.google.com/file/d/1rLmMKgXroN7AM_4Bg3ol4rUJdL68PVss/view?usp=drive_link)
+- [Slide deck for screens/workshops (PDF)](https://drive.google.com/file/d/1q9f5mmVmPS9b4kq5FLzshtc4-SQ1fniV/view?usp=drive_link) 
+
+**What it shows:**
+- clear explanation of the main benefits of movement: heart health, strength, mobility, mental well-being and everyday energy  
+- simple, visual breakdown of evidence-based guidelines (WHO, CDC, AHA) into everyday language  
+- practical, member-focused examples connecting exercise to daily life (less back pain, easier movement, more energy and better mood)
+
+**Role:** Fitness & Education Content Creator (freelance project)  
+**Tools:** Google NotebookLM, Canva, Video editor, YouTube Studio   
+  
+---
+
+**Full case study:** [Notion project page](https://planet-sugar-0a7.notion.site/Joanna-Rasek-Data-Portfolio-2636075b1dd480cd8c99f8624072a999)
+
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/joanna-rasek-9315a0382/)
+
