@@ -109,6 +109,23 @@ Educational mini-campaign for Anytime Fitness Huntersville explaining the key be
   
 ---
 
+### 6️⃣ Charlotte Housing – Streamlit App
+
+**Short description**  
+Interactive Streamlit web app for predicting house prices in Huntersville, NC.  
+The backend uses a Random Forest model trained on Redfin market data (historical prices and market metrics).
+
+**What I did**
+- Collected and cleaned Redfin TSV data using **pandas**.
+- Built and evaluated a **RandomForestRegressor** model in **scikit-learn**.
+- Saved the trained model to a `.pkl` file and loaded it inside a **Streamlit** app.
+- Designed a simple UI where the user enters square footage, number of bedrooms/bathrooms, year built, and ZIP code → the app returns an estimated house price.
+
+**Repository**  
+👉 [charlotte-housing-app](https://github.com/joannarasek-maker/charlotte-housing-app)
+
+---
+
 **Full case study:** [Notion project page](https://planet-sugar-0a7.notion.site/Joanna-Rasek-Data-Portfolio-2636075b1dd480cd8c99f8624072a999)
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/joanna-rasek-9315a0382/)
